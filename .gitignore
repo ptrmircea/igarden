@@ -17,7 +17,7 @@ expo-env.d.ts
 *.p12
 *.key
 *.mobileprovision
-Expo prebuild / run
+
 android/
 ios/
 
@@ -41,7 +41,7 @@ yarn-error.*
 
 # local env files
 .env*.local
- .env.local 
+.env.local
 .env.development.local
 .env.test.local
 .env.production.local
