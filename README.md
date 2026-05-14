@@ -1,3 +1,3 @@
-# igarden
-#coming soon :]
-#proiect misto
+# iGarden
+
+An upcoming Android app.
